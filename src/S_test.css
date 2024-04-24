@@ -1,0 +1,9 @@
+.audio-table {
+    font-size: 18px; /* Adjust the font size as needed */
+  }
+  
+  .audio-table th,
+  .audio-table td {
+    padding: 8px;
+  }
+  

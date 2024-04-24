@@ -1,0 +1,40 @@
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    background-color: #f8f9fa; /* Light gray background */
+  }
+  
+  .left {
+    display: flex;
+    align-items: center;
+  }
+
+  
+  .descr {
+    flex-grow: 1; /* Take up remaining space */
+    display: flex;
+    justify-content: center;
+  }
+  
+  .signs {
+    display: flex;
+    gap: 10px;
+  }
+  
+  /* Optional: Styles for Navbar links */
+  .navbar-nav .nav-link {
+    color: #007bff; /* Bootstrap primary color */
+    margin: 0 10px;
+  }
+
+  .Box {
+    padding:  4% 6%;
+    
+  }
+
+  .lowerbox {
+    margin: 10px 70px;
+  }
+  
