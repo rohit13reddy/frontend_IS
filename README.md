@@ -1,4 +1,4 @@
 FOR RUNNING THE CODE FIRST YOU HAVE TO INSTALL THE FOLLOWING:
 
-npm install
+npm install <br>
 npm start
